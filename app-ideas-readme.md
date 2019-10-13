@@ -22,7 +22,7 @@ Should have touch interaction option, but should be able to work without.
 
 ### Notes
 
-Look through [Board Game Geek] to get an idea for commmon patterns of designs, pieces, cards, layouts, mechanics etc.
+XX Look through [Board Game Geek] to get an idea for commmon patterns of designs, pieces, cards, layouts, mechanics etc.
 
 A company called [PlayTable] has something very similar to what I am thinking. Though theirs it tied to proprietary hardware. I think a more insteresting approach
 would be for this to be hardware agnostic. Anyone who downloads the OS can put it on whatever hardware they have, Create DIY tables, etc. Inline with this:

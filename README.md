@@ -16,8 +16,8 @@
 - What are the interactive components?
 
 - What software does TTOS need?
-  - Extension builder
-  - Messing
+  - Extension/Mod builder
+  - Messaging
   - Game Engine
   - App Store
   - 
@@ -81,4 +81,3 @@ Most commercial capacitive touch screens have a limit of 10 points of contact
 - Would there be a software solution to this issue?
   - Can you "toggle/turn off" part of or all of a screen? Temporarly disable a/three
      touch points?
-
