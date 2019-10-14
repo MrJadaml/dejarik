@@ -2,6 +2,7 @@
 
 ### Gaming
 
+[Inclusive Geekery Meetup]
 [Board Game Geek]
 [Tabletopia]
 [Board Game Arena]
@@ -19,6 +20,7 @@
 [PlayTable]
 [Microsoft PixelSense]
 
+[Inclusive Geekery Meetup]: https://www.meetup.com/Inclusive-Geekery/
 [Board Game Geek]: https://www.boardgamegeek.com/browse/boardgame?sort=bggrating&sortdir=desc
 [Tabletopia]: https://tabletopia.com/about
 [Board Game Arena]: https://en.boardgamearena.com
