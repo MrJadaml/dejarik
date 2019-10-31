@@ -13,6 +13,6 @@ Players: 2-5
 ### General notes
 
 Uses the common [VP] border interface
-
+https://www.boardgamegeek.com/boardgame/167791/terraforming-mars
 [BoardGameGeek]: https://boardgamegeek.com/boardgame/9209/ticket-ride
 [VP]: https://www.boardgamegeek.com/wiki/page/Glossary#toc229

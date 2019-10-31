@@ -39,6 +39,9 @@ Game Type: Co-ops, Puzzel, Pandemic, Worker Placement, Social Deduction
 
 Short description of general game objective.
 
+### Board
+![game name board alt text](#)
+
 ### Mechanics of note
 Any game mechanics that are worth commenting on. Things that my be generic when the thematic context is stripped away.
 
